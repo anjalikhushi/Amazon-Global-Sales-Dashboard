@@ -30,7 +30,27 @@ Amazon's biggest sales come from Asia Pacific and the US/Canada regions. These a
 Most of Amazon's sales are from products sold to individual consumers, rather than businesses or offices.
 Some Amazon products make a lot of profit, while others don't make much profit at all. There's a big difference in how profitable different products are.
 The map shows that Amazon sells a lot in North America and Europe, but there are opportunities to grow sales in other parts of the world.
+# Steps:
 
+# Step 1: Database Connection: Import the Global Superstore Dataset from Excel.
+
+# Step 2: Data Analysis and Transformation:
+  Explore the dataset's tables and understand their relationships.
+  Apply necessary data transformations to ensure data consistency and usability.
+# Step 3: Data Cleaning using Power Query Editor and DAX:
+  Utilize Power Query Editor and DAX functions to clean and refine the data.
+  Handle missing values, duplicates, and any other data quality issues.
+# Step 4: Visualization Models Development:
+(a) Slicers, Cards, and Background Formatting:
+  Create slicers and cards to facilitate easy data filtering and summarization.
+  Enhance the report's visual appeal with background formatting.
+(b) Pie, Donut, and Stacked Column Charts:
+   Generate pie and donut charts to showcase proportions and percentages.
+   Use stacked column charts to compare categories within data sets.
+(c) Clustered Bar Chart, Map, and Report Formatting:
+  Construct clustered bar charts to compare multiple data points side by side.
+  Implement a map visualization to display geographic distribution or insights.
+  Format the entire report to present a cohesive and professional appearance.
 ## Recommendations:
 <p>
 <b>Market Expansion: </b> Amazon should invest more in advertising and building better delivery systems in Asia Pacific and the US/Canada. These are their strongest markets with lots of potential customers.
